@@ -4,7 +4,7 @@ This is a really awesome website
 
 Updates made on main on GitHub before rebase
 
-Testing
+Added new Design Doc
 
 
 ## Repository Purpose
